@@ -7,3 +7,60 @@ h1 {
     text-align: center;
     background-color: rgb(195, 140, 15);
 }
+
+.presentation p{
+    display: inline-block;
+    background-color: blanchedalmond;
+    width: 350px;
+    text-align: center;
+    margin: 15px;
+    padding: 25px;
+    position: absolute;
+    top: 42%;
+    height: 108px;
+    margin-top: -54px;
+    padding-right: 500px;
+}
+
+.presentation img {
+    width: 400px;
+    height: auto;
+}
+
+div.presentation{
+    height: 301px;
+    border: 3px;
+    position: relative;
+
+}
+
+div li {
+    background-color: white;
+    border: solid red 1px;
+}
+
+div {
+    background-color: rgb(17, 107, 95);
+}
+
+h3 {
+    margin: 20px; 
+    background-color: brown;
+    border-top: 4px;
+}
+
+.presentation .long_p {
+    width: 850px;
+    padding-bottom: 50px;
+}
+
+.presentation .long_img {
+    width: 415px;
+    height: 301px;
+}
+
+.list li {
+    background-color: rgb(255, 240, 105);
+    padding: 6px;
+    margin-bottom: 3px;
+}
